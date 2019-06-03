@@ -5,4 +5,4 @@ for a in range(u+1,v):
           if(a%b==0):
               break
       else:
-          print(a,end=" ")
+          print(a,end=' ')
